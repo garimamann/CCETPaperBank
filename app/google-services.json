@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758559184765",
+    "firebase_url": "https://ccet-paper-bank-b9f8f.firebaseio.com",
+    "project_id": "ccet-paper-bank-b9f8f",
+    "storage_bucket": "ccet-paper-bank-b9f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758559184765:android:d91cc8e5e378cefd",
+        "android_client_info": {
+          "package_name": "com.example.anuj.ccetpaperbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758559184765-8d9sjd3gndr45lf585kcj4i2fk3ojd7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.ccetpaperbank",
+            "certificate_hash": "4cf8f66c12774722266edc8661983ccc43ad255b"
+          }
+        },
+        {
+          "client_id": "758559184765-hkvktr7g5pc8md0vm9kp9a352k7i82fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7pdSJoh27XoTnqyocyqxQ260xE4Tflc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758559184765-hkvktr7g5pc8md0vm9kp9a352k7i82fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
